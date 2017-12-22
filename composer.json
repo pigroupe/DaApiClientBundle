@@ -1,5 +1,5 @@
 {
-    "name": "da/api-client-bundle-sf3",
+    "name": "da/api-client-bundle",
     "type": "symfony-bundle",
     "description": "DaApiClientBundle is a Symfony2's bundle allowing to discuss in a simple and secure way with an API.",
     "keywords": ["api", "client", "bundle", "da", "symfony2", "symfony", "simple"],
