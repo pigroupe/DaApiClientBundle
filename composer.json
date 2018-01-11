@@ -28,6 +28,13 @@
     "autoload": {
         "psr-0": { "Da\\ApiClientBundle": "" }
     },
+
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.x-dev"
+        }
+    },
+
     "minimum-stability": "dev",
     "target-dir": "Da/ApiClientBundle"
 }
